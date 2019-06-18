@@ -219,7 +219,7 @@ namespace EAMApp.Payments
                 message += "We express our appreciation for your contribution and may you be anointed by the Spirit of the Lord God to fulfill your PURPOSE on earth! <br><br>";
                 message += "May the fulfilment of the vision of the ministry through your giving bring you total satisfaction. <br><br>";
                 message += "Yours for the LOVE REVOLUTION, <br> <br>";
-                message += "Dinah Bondzie (Mrs) <br> Finance & Accounting Lead <br> 0208215660 <br><br>";
+                message += "Dinah Bondzie (Mrs) <br> Finance Lead <br> 0208215660 <br><br>";
                 message += "<b>Please do not reply to this email.<b>";
                 MailMessage myMessage = new MailMessage();
                 myMessage.From = (new MailAddress("admin@eampartners.net", "EAM Admin"));
